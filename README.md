@@ -1,4 +1,3 @@
-Quan, Éric & Fred, la Satispy Team ;-)
 # -----------Présentation rapide du Projet ------------------
 
 - Dans le cadre d'un projet mémoire de fin de formation MLOPS, nous avons récupéré le développement
